@@ -1,8 +1,14 @@
 ### 👋 About Me:
 I am a 4th Year Engineering student passionate about AI/ML, Data Science, and Full-Stack Web Development. I build production-ready web applications, integrate ML models into projects, and deploy them on cloud platforms. Always learning and building projects to solve real-world problems.
 
+
 ---
 
+### 🌐 **My Portfolio:**
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codsoft-web-development.onrender.com/)
+
+---
+---
 ### 🛠️ Tech Stack:
 
 #### 💻 **Programming & Scripting:**

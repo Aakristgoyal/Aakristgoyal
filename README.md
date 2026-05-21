@@ -6,9 +6,9 @@ I am a 4th Year Engineering student passionate about AI/ML, Data Science, and Fu
 
 ### 🌐 **My Portfolio**
 
-[![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)](https://codsoft-web-development.onrender.com)
+[![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)](https://aakristgoyal.onrender.com)
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codsoft-web-development.onrender.com)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aakristgoyal.onrender.com)
 
 ---
 

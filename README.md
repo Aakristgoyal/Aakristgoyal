@@ -1,5 +1,5 @@
 ### 👋 About Me:
-I am a 4th Year Engineering student passionate about AI/ML, Data Science, and Full-Stack Web Development. I build production-ready web applications, integrate ML models into projects, and deploy them on cloud platforms. Always learning and building projects to solve real-world problems.
+I am a final Year Engineering student passionate about AI/ML, Data Science, and Full-Stack Web Development. I build production-ready web applications, integrate ML models into projects, and deploy them on cloud platforms. Always learning and building projects to solve real-world problems.
 
 
 ---
